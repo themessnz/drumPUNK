@@ -14,4 +14,12 @@ Following on socials:
 - Following the [Twitch channel](https://twitch.tv/mess_nz) for live-streams
 - Subscribing to [The Mess YouTube](https://www.youtube.com/@TheMessNZ) for streams, project playlists, and other video content.
 
+## Related Projects
+### MIDIpunk
+Offical [MIDIpunk Github Repo](https://github.com/themessnz/MIDIpunk) 
 
+Hardware MIDI router. Features include:
+- 4x USB and 4x I/O switchable MIDI DIN ports
+- Built on the Raspberry Pi (or similar) platform.
+- Coded in GoLang.
+- PCB designs, housing design, core and UI software code all free and open source.
